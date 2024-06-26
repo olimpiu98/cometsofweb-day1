@@ -1,4 +1,4 @@
-npx esrun generate-keypair.ts
+npx esrun generate-keypair.ts <br>
 ![image](https://github.com/olimpiu98/cometsofweb-day1/assets/104469153/fe738803-e6e1-4669-bc86-3bf62f0703fe)
 
 npx esrun load-keypair.ts
